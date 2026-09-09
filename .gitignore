@@ -1,4 +1,5 @@
 # ignored folders
+grobid/venv
 openalex/crawler/outputs-*
 openalex/requester/outputs-*
 openalex/requester/outputs-*
@@ -13,3 +14,6 @@ database/scripts/database.ini
 database/postgres/.env
 
 *.bat
+grobid/open_access/
+
+grobid/not_open_access/
